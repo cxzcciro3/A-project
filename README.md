@@ -16,11 +16,20 @@ nesse projeto creio que o mais importante é a aparência, se os gráficos do si
 
 
 produtos a serem entregues:
+
+Primario:
+
 1uma site com informações sobre o TS e sobre os membros, com os melhores gráficos possíveis 
+
 2uma forma de criar uma espere wike de um grupo e seus componentes com gráficos excelentes (excelente para clâs de jogos)
-??
+
+Secundario:
+
 3uma forma de divulgar um grupo para encontra membros 
+
 ?????????
-4uma forma de encontra grupos para jogar um jogo o fazer um projeto 
+
+4uma forma de encontra grupos para jogar um jogo o fazer um projeto
+
 5 uma forma de ser notificado sobre os principais eventos do grupo.
 
